@@ -1,0 +1,50 @@
+/* company.component.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .hero {
+    background-color: #3498db;
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .features {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+  }
+  
+  .method {
+    margin-bottom: 30px;
+  }
+  
+  .method h3 {
+    color: #333;
+  }
+  
+  .contact {
+    background-color: #2ecc71;
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  .contact a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .contact a:hover {
+    text-decoration: underline;
+  }
+  
