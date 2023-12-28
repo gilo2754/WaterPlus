@@ -1,3 +1,6 @@
+# Actualización 28/12/2023
+Por el momento se prioriza un Landing Page estática
+
 # WaterPlus
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
