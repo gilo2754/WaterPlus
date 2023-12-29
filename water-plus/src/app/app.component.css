@@ -1,0 +1,14 @@
+.app-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 10px;
+    background-color: #7d80c6; /* Puedes utilizar un color sólido */
+  
+}
+
+  :host {
+    /* Establece el fondo del cuerpo de la página */
+    /* o */
+
+  }
